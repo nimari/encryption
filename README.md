@@ -1,6 +1,5 @@
 ### Encryption التشفير
 
-- **Terminology** ![e869ef86921bef55ab373fcd5ecd7791.png](:/1e59e25e0cd24d59a2e74a08a6afb68c)
 - **Symmetric - التشفير المتماثل**
     - One Key - يستخدم مفتاح واحد للتشفير و نفس المفتاح لفك التشفير
     - Categories
