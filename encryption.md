@@ -26,7 +26,7 @@
         - DSA
         - ECC
         - DHG ( **D**iffie **H**ellman **G**roup )
-- **Hashing**
+- **Hashing**: One Way Function
     - MD5
     - SHA1 - SHA2 - SHA3 - SHA256
 - Encryption & Hashing Tools
