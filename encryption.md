@@ -1,5 +1,11 @@
 ### Encryption التشفير
 
+
+- **Encryption علم التعمية:**
+    - Encryption is the process of converting plaintext, which is the original form of data or message, into ciphertext, which is an encoded or scrambled form of the data, using cryptographic techniques. 
+        - Permutation: rearranging the order of elements in a data block or sequence
+        - Substitution: replacing elements or symbols in a data block with different elements or symbols according to a predetermined substitution table or algorithm
+        - XORing     
 - **Symmetric - التشفير المتماثل**
     - One Key - يستخدم مفتاح واحد للتشفير و نفس المفتاح لفك التشفير
     - Categories
@@ -63,6 +69,15 @@
     
     - Support Both **Addition** and **Multiplication**
     - IBM FHE Services
+- **Cryptanalysis:**
+    - The study of analyzing cryptographic algorithms and systems to uncover weaknesses or vulnerabilities.     
+    - Highlight the importance of rigorous analysis and evaluation of cryptographic algorithms to ensure their resilience against attacks.
+ 
+- **Post Quatum Cryptography**
+    - Lattice Based
+    - Code Based
+    - Hash Based
+   
 
 ### Tools
 
